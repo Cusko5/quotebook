@@ -11,3 +11,5 @@ Be happy
 hello
 
 my friend
+
+get
